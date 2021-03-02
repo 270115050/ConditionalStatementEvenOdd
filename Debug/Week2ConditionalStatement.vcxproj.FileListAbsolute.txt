@@ -1,0 +1,2 @@
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Week2ConditionalStatement\Debug\Week2ConditionalStatement.exe
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Week2ConditionalStatement\Debug\Week2ConditionalStatement.pdb
